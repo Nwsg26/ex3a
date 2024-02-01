@@ -1,2 +1,2 @@
 # ex3a
-the is my exercise for chapter 3
+this is my exercise for chapter 3
